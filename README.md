@@ -1,17 +1,16 @@
-# Descrição do Projeto
+# Project Description
 
-Este repositório contém um página geradora de conselhos, a página foi feita com JavaScript e o uso da **API** de conselhos (https://api.adviceslip.com/#endpoint-random), sempre que o botão de dado for clicado, a API manda um novo conselho. 
+This repository contains an advice generator page. The page was created with JavaScript and the use of the **Advice API** (https://api.adviceslip.com/#endpoint-random). Whenever the given button is clicked, the API sends a new piece of advice.
 
-As técnicas usadas nesse projeto são as ensinadas no módulo de Javascript avançado do curso **Dev em Dobro** . O projeto também conta com tecnologias **HTML** e **CSS**, utilizadas para deixar aplicação responsiva e com design proposto pelo desafio do Frontend Mentor.
+The techniques used in this project are those taught in the advanced Javascript module of the **Dev em Dobro** course. The project also uses **HTML** and **CSS** technologies, used to make the application responsive and with the design proposed by the Frontend Mentor challenge.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML**: Estruturação do conteúdo e elementos da página.
-- **CSS**: Estilização visual e responsividade.
-- **JavaScript**: Manipulando elementos através do DOM, assim podendo gerar novos conselhos sempre que o botão é clicado
-- **API**: Integração com um sistema que envia conselhos. (essa API armazena o conselho em cache por dois segundos, então se dentro desse tempo for recarregado, o conselho será o mesmo)
+- **HTML**: Structuring the content and elements of the page.
+- **CSS**: Visual styling and responsiveness.
+- **JavaScript**: Manipulating elements through the DOM, thus being able to generate new advice whenever the button is clicked.
+- **API**: Integration with a system that sends advice. (this API caches the advice for two seconds, so if it is reloaded within that time, the advice will be the same)
 
+## Objective
 
-## Objetivo
-
-Este projeto foi desenvolvido com o propósito de colocar em prática as técnicas do módulo de JavaScript avançado e as técnicas de uso de API´s.
+This project was developed with the purpose of putting into practice the techniques of the advanced JavaScript module and the techniques of using APIs.
